@@ -7,6 +7,7 @@ services:
       - 8085:25565
     environment:
       EULA: "TRUE"
+      MOTD: "This MCServer is running on a docker-compose!!"
       TYPE: "FORGE"
       VERSION: 1.16.5
       FORGE_VERSION: 36.2.34
