@@ -1,37 +1,57 @@
+#no dependency
 https://mediafilez.forgecdn.net/files/3454/680/TofuCraftReload-1.16.5-0.3.8.1.jar
-https://mediafilez.forgecdn.net/files/3346/366/titanium-1.16.5-3.2.8.4-10.jar
-https://mediafilez.forgecdn.net/files/3695/126/TConstruct-1.16.5-3.3.4.335.jar
-https://mediafilez.forgecdn.net/files/3862/963/supermartijn642configlib-1.1.6-forge-mc1.16.jar
+https://mediafilez.forgecdn.net/files/3474/640/bluepower-1.16.5-0.5.262-alpha-universal.jar
 https://mediafilez.forgecdn.net/files/3601/907/SlashBlade-1.16-0.0.12.1.jar
-https://mediafilez.forgecdn.net/files/4059/962/ScalableCatsForce-2.13.10-build-11-with-library.jar
-https://mediafilez.forgecdn.net/files/3732/254/Runelic-1.16.5-7.0.3.jar
 https://mediafilez.forgecdn.net/files/3807/951/refinedstorage-1.9.18.jar
+https://mediafilez.forgecdn.net/files/4060/770/jei-1.16.5-7.7.1.153.jar
+https://mediafilez.forgecdn.net/files/3447/911/gravestone-1.16.5-1.0.7.jar
+https://mediafilez.forgecdn.net/files/3659/389/Mekanism-1.16.5-10.1.2.457.jar
+https://mediafilez.forgecdn.net/files/3482/306/ftb-backups-2.1.2.2.jar
+https://mediafilez.forgecdn.net/files/3226/34/fansmod-1.16.5-2.0.1.2.jar
+https://mediafilez.forgecdn.net/files/3738/137/CosmeticArmorReworked-1.16.5-v5.jar
+#Quark
 https://mediafilez.forgecdn.net/files/3642/325/Quark-r2.4-322.jar
-https://mediafilez.forgecdn.net/files/3847/29/Patchouli-1.16.4-53.3.jar
+https://mediafilez.forgecdn.net/files/3326/41/AutoRegLib-1.6-49.jar
+#TConstruct
+https://mediafilez.forgecdn.net/files/3695/126/TConstruct-1.16.5-3.3.4.335.jar
+https://mediafilez.forgecdn.net/files/3631/982/Mantle-1.16.5-1.6.157.jar
+#mana-and-artifice
+https://mediafilez.forgecdn.net/files/3651/870/mana-and-artifice-1.5.1.7.jar
+https://mediafilez.forgecdn.net/files/4182/600/geckolib-forge-1.16.5-3.0.106.jar
+#industrial-foregoing
+https://mediafilez.forgecdn.net/files/3446/262/industrial-foregoing-1.16.5-3.2.14.6-14.jar
+https://mediafilez.forgecdn.net/files/3346/366/titanium-1.16.5-3.2.8.4-10.jar
+#botania
+https://mediafilez.forgecdn.net/files/4066/54/Botania-1.16.5-420.3.jar
+#ftb-ultimine
+https://mediafilez.forgecdn.net/files/3520/756/ftb-ultimine-forge-1605.3.1-build.45.jar
+https://mediafilez.forgecdn.net/files/3553/840/ftb-library-forge-1605.3.4-build.90.jar
+https://mediafilez.forgecdn.net/files/3857/643/architectury-1.32.66.jar
+#DarkUtilities
+https://mediafilez.forgecdn.net/files/3795/387/DarkUtilities-1.16.5-8.0.14.jar
+https://mediafilez.forgecdn.net/files/3732/239/Bookshelf-Forge-1.16.5-10.4.32.jar
+https://mediafilez.forgecdn.net/files/3732/254/Runelic-1.16.5-7.0.3.jar
+#chunkloaders
+https://mediafilez.forgecdn.net/files/3941/252/chunkloaders-1.2.2-forge-mc1.16.jar
+https://mediafilez.forgecdn.net/files/3863/127/supermartijn642corelib-1.0.19-forge-mc1.16.5.jar
+https://mediafilez.forgecdn.net/files/3862/963/supermartijn642configlib-1.1.6-forge-mc1.16.jar
+#BloodMagic
+https://mediafilez.forgecdn.net/files/3870/899/BloodMagic-1.16.4-3.1.13-39.jar
+#astralsorcery
+https://mediafilez.forgecdn.net/files/3813/365/astralsorcery-1.16.5-1.14.1.jar
 https://mediafilez.forgecdn.net/files/3333/962/observerlib-1.16.5-1.5.3.jar
+#AdditionalEnchantedMiner
+https://mediafilez.forgecdn.net/files/3607/840/AdditionalEnchantedMiner-1.16.5-16.1.11.jar
+https://mediafilez.forgecdn.net/files/4059/962/ScalableCatsForce-2.13.10-build-11-with-library.jar
+# depended from List ----------------------
+#depended from industrial-foregoing , botania , BloodMagic
+https://mediafilez.forgecdn.net/files/3847/29/Patchouli-1.16.4-53.3.jar
+# depended form botania , astralsorcery
+https://mediafilez.forgecdn.net/files/3725/386/curios-forge-1.16.5-4.0.8.2.jar
+# depended to List ---------------------------
+#depended to Mekanism
 https://mediafilez.forgecdn.net/files/3659/392/MekanismTools-1.16.5-10.1.2.457.jar
 https://mediafilez.forgecdn.net/files/3659/391/MekanismGenerators-1.16.5-10.1.2.457.jar
 https://mediafilez.forgecdn.net/files/3659/393/MekanismAdditions-1.16.5-10.1.2.457.jar
-https://mediafilez.forgecdn.net/files/3659/389/Mekanism-1.16.5-10.1.2.457.jar
-https://mediafilez.forgecdn.net/files/3631/982/Mantle-1.16.5-1.6.157.jar
-https://mediafilez.forgecdn.net/files/3651/870/mana-and-artifice-1.5.1.7.jar
-https://mediafilez.forgecdn.net/files/4060/770/jei-1.16.5-7.7.1.153.jar
-https://mediafilez.forgecdn.net/files/3446/262/industrial-foregoing-1.16.5-3.2.14.6-14.jar
-https://mediafilez.forgecdn.net/files/3447/911/gravestone-1.16.5-1.0.7.jar
-https://mediafilez.forgecdn.net/files/4182/601/geckolib-fabric-1.16.5-3.0.107.jar
-https://mediafilez.forgecdn.net/files/3520/756/ftb-ultimine-forge-1605.3.1-build.45.jar
-#?
-https://mediafilez.forgecdn.net/files/3482/306/ftb-backups-2.1.2.2.jar
-https://mediafilez.forgecdn.net/files/3226/34/fansmod-1.16.5-2.0.1.2.jar
-https://mediafilez.forgecdn.net/files/3795/387/DarkUtilities-1.16.5-8.0.14.jar
-https://mediafilez.forgecdn.net/files/3725/386/curios-forge-1.16.5-4.0.8.2.jar
-https://mediafilez.forgecdn.net/files/3738/137/CosmeticArmorReworked-1.16.5-v5.jar
-https://mediafilez.forgecdn.net/files/3941/252/chunkloaders-1.2.2-forge-mc1.16.jar
+#depended to botania
 https://mediafilez.forgecdn.net/files/3139/471/BotaniaAdditionsMC1.16.4-1.0.4.jar
-https://mediafilez.forgecdn.net/files/4066/54/Botania-1.16.5-420.3.jar
-https://mediafilez.forgecdn.net/files/3732/239/Bookshelf-Forge-1.16.5-10.4.32.jar
-https://mediafilez.forgecdn.net/files/3474/640/bluepower-1.16.5-0.5.262-alpha-universal.jar
-https://mediafilez.forgecdn.net/files/3870/899/BloodMagic-1.16.4-3.1.13-39.jar
-https://mediafilez.forgecdn.net/files/3326/41/AutoRegLib-1.6-49.jar
-https://mediafilez.forgecdn.net/files/3813/365/astralsorcery-1.16.5-1.14.1.jar
-https://mediafilez.forgecdn.net/files/3607/840/AdditionalEnchantedMiner-1.16.5-16.1.11.jar
