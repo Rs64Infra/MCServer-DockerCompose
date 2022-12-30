@@ -22,14 +22,10 @@ https://www.curseforge.com/minecraft/mc-mods/geckolib/download/4182601/file
 https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/download/3520756/file
 #?
 https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge/download/3482306/file
-https://www.curseforge.com/minecraft/mc-mods/findme/download/3586951/file
-#?
 https://www.curseforge.com/minecraft/mc-mods/fans-mod/download/3226034/file
 https://www.curseforge.com/minecraft/mc-mods/dark-utilities/download/3795387/file
 https://www.curseforge.com/minecraft/mc-mods/curios/download/3725386/file
 https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/download/3738137/file
-https://www.curseforge.com/minecraft/mc-mods/cloth-config/download/3972422/file
-#?
 https://www.curseforge.com/minecraft/mc-mods/chunk-loaders/download/3941252/file
 https://www.curseforge.com/minecraft/mc-mods/botania-additions/download/3139471/file
 https://www.curseforge.com/minecraft/mc-mods/botania/download/4066054/file
@@ -38,6 +34,4 @@ https://www.curseforge.com/minecraft/mc-mods/blue-power/download/3474640/file
 https://www.curseforge.com/minecraft/mc-mods/blood-magic/download/3870899/file
 https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/3326041/file
 https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/download/3813365/file
-https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/3857643/file
-#?
 https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner/download/3607840/file
