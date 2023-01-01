@@ -13,6 +13,7 @@ services:
       FORGE_VERSION: 36.2.34
       MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "true"
+      MEMORY: 8G
     volumes:
       - ./mcdata:/data
       - ./mods.txt:/extras/mods.txt:ro
