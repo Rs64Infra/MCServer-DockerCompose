@@ -5,6 +5,7 @@ services:
     image: itzg/minecraft-server:java8
     ports:
       - 8085:25565
+      - 8086:25575
     environment:
       EULA: "TRUE"
       MOTD: "This MCServer is running on a docker-compose!!"
