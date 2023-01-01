@@ -15,7 +15,6 @@ services:
       REMOVE_OLD_MODS: "TRUE"
       MEMORY: 8G
       WHITELIST_FILE: /extra/whitelist.json
-      ENABLE_WHITELIST: "TRUE"
     volumes:
       - ./mcdata:/data
       - ./mods.txt:/extras/mods.txt:ro
