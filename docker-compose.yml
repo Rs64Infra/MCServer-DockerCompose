@@ -12,11 +12,14 @@ services:
       VERSION: 1.16.5
       FORGE_VERSION: 36.2.34
       MODS_FILE: /extras/mods.txt
-      REMOVE_OLD_MODS: "true"
+      REMOVE_OLD_MODS: "TRUE"
       MEMORY: 8G
+      WHITELIST_FILE: /extra/whitelist.json
+      ENABLE_WHITELIST: "TRUE"
     volumes:
       - ./mcdata:/data
       - ./mods.txt:/extras/mods.txt:ro
+      - ./whitelist.json:/extra/whitelist.json:ro
     tty: true
     stdin_open: true
     restart: unless-stopped
