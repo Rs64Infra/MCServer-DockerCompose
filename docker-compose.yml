@@ -14,7 +14,7 @@ services:
       FORGE_VERSION: 36.2.34
       MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "TRUE"
-      MEMORY: 8G
+      MEMORY: 16G
       OVERRIDE_WHITELIST: "TRUE"
       WHITELIST_FILE: /extra/whitelist.json
     volumes:
