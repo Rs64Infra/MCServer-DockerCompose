@@ -12,14 +12,12 @@ services:
       TYPE: "FORGE"
       VERSION: 1.19.2
       FORGE_VERSION: 43.3.5
-      # MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "TRUE"
       MEMORY: 16G
       OVERRIDE_WHITELIST: "TRUE"
       WHITELIST_FILE: /extra/whitelist.json
     volumes:
       - ./mcdata:/data
-      - ./mods.txt:/extras/mods.txt:ro
       - ./whitelist.json:/extra/whitelist.json:ro
     tty: true
     stdin_open: true
