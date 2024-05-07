@@ -10,9 +10,9 @@ services:
       EULA: "TRUE"
       MOTD: "This MCServer is running on a docker-compose!!"
       TYPE: "FORGE"
-      VERSION: 1.16.5
-      FORGE_VERSION: 36.2.34
-      MODS_FILE: /extras/mods.txt
+      VERSION: 1.19.2
+      FORGE_VERSION: 43.3.5
+      # MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "TRUE"
       MEMORY: 16G
       OVERRIDE_WHITELIST: "TRUE"
