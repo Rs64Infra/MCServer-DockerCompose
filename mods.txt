@@ -109,3 +109,7 @@ https://mediafilez.forgecdn.net/files/4769/489/YungsBetterWitchHuts-1.20-Forge-3
 https://mediafilez.forgecdn.net/files/4706/474/Difficult%20Caves%201.0.0%20-%201.20.1.jar
 # Hostile mobs and girls
 https://mediafilez.forgecdn.net/files/5306/90/hmag-forge-mc1.20.1-9.0.19.jar
+# Easy Emerald
+https://mediafilez.forgecdn.net/files/5243/887/EasyEmerald-Forge-1.20.1-1.5.8.jar
+# Simply Sword
+https://mediafilez.forgecdn.net/files/5255/981/simplyswords-fabric-1.55.0-1.20.1.jar
