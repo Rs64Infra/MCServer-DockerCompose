@@ -17,3 +17,5 @@ https://mediafilez.forgecdn.net/files/5002/307/Botania-1.20.1-443-FORGE.jar
 https://mediafilez.forgecdn.net/files/5296/876/curios-forge-5.9.0%2B1.20.1.jar
 # Patchouli
 https://mediafilez.forgecdn.net/files/4966/125/Patchouli-1.20.1-84-FORGE.jar
+# create
+https://mediafilez.forgecdn.net/files/4835/191/create-1.20.1-0.5.1.f.jar
