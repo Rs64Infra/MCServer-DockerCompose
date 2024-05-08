@@ -78,6 +78,7 @@ https://mediafilez.forgecdn.net/files/5296/318/sophisticatedcore-1.20.1-0.6.21.6
 https://mediafilez.forgecdn.net/files/5152/196/storagedrawers-1.20.1-12.0.3.jar
 # Simple Storage Network
 https://mediafilez.forgecdn.net/files/4648/868/SimpleStorageNetwork-1.20.1-1.10.0.jar
+https://mediafilez.forgecdn.net/files/5262/803/flib-1.20.1-0.0.12.jar
 # Supplementaries関係
 https://mediafilez.forgecdn.net/files/5225/134/supplementaries-1.20-2.8.10.jar
 https://mediafilez.forgecdn.net/files/5324/423/amendments-1.20-1.1.27.jar
