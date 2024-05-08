@@ -112,4 +112,4 @@ https://mediafilez.forgecdn.net/files/5306/90/hmag-forge-mc1.20.1-9.0.19.jar
 # Easy Emerald
 https://mediafilez.forgecdn.net/files/5243/887/EasyEmerald-Forge-1.20.1-1.5.8.jar
 # Simply Sword
-https://mediafilez.forgecdn.net/files/5255/981/simplyswords-fabric-1.55.0-1.20.1.jar
+https://mediafilez.forgecdn.net/files/5255/968/simplyswords-forge-1.55.0-1.20.1.jar
