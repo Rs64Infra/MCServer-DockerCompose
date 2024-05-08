@@ -74,6 +74,10 @@ https://mediafilez.forgecdn.net/files/5254/672/Zeta-1.0-16.jar
 # Sophisticated Backpackとその前提
 https://mediafilez.forgecdn.net/files/5296/475/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar
 https://mediafilez.forgecdn.net/files/5296/318/sophisticatedcore-1.20.1-0.6.21.609.jar
+# Storage Drawers
+https://mediafilez.forgecdn.net/files/5152/196/storagedrawers-1.20.1-12.0.3.jar
+# Simple Storage Network
+https://mediafilez.forgecdn.net/files/4648/868/SimpleStorageNetwork-1.20.1-1.10.0.jar
 # Supplementaries関係
 https://mediafilez.forgecdn.net/files/5225/134/supplementaries-1.20-2.8.10.jar
 https://mediafilez.forgecdn.net/files/5324/423/amendments-1.20-1.1.27.jar
