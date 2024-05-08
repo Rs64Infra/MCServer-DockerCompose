@@ -17,5 +17,22 @@ https://mediafilez.forgecdn.net/files/5002/307/Botania-1.20.1-443-FORGE.jar
 https://mediafilez.forgecdn.net/files/5296/876/curios-forge-5.9.0%2B1.20.1.jar
 # Patchouli
 https://mediafilez.forgecdn.net/files/4966/125/Patchouli-1.20.1-84-FORGE.jar
-# create
+# create　本体
 https://mediafilez.forgecdn.net/files/4835/191/create-1.20.1-0.5.1.f.jar
+＃ create アドオン
+https://mediafilez.forgecdn.net/files/4735/326/create_misc_and_things_%201.20.1_4.0A.jar
+https://mediafilez.forgecdn.net/files/5282/123/createbigcannons-forge-1.20.1-0.5.4.jar
+https://mediafilez.forgecdn.net/files/5232/178/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar
+https://mediafilez.forgecdn.net/files/5099/752/createaddition-1.20.1-1.2.3.jar
+https://mediafilez.forgecdn.net/files/5293/982/createdeco-2.0.2-1.20.1-forge.jar
+https://mediafilez.forgecdn.net/files/5079/146/CreateCasing-1.20.1-1.6.0.jar
+https://mediafilez.forgecdn.net/files/5228/875/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar
+https://mediafilez.forgecdn.net/files/5140/817/create_jetpack-forge-4.2.1.jar
+https://mediafilez.forgecdn.net/files/4763/414/create_mechanical_extruder-1.20.1-1.5.7.e-22.jar
+https://mediafilez.forgecdn.net/files/4763/56/sliceanddice-forge-3.2.0.jar
+https://mediafilez.forgecdn.net/files/4703/287/create-stuff-additions1.20.1_v2.0.4a.jar
+https://mediafilez.forgecdn.net/files/4860/141/bellsandwhistles-0.4.3-1.20.x.jar
+https://mediafilez.forgecdn.net/files/5223/588/Copycats-forge.1.20.1-1.2.6.jar
+https://mediafilez.forgecdn.net/files/5291/634/design_decor-0.4-1.20.1.jar
+https://mediafilez.forgecdn.net/files/5253/14/interiors-0.5.3%2Bforge-mc1.20.1.jar
+https://mediafilez.forgecdn.net/files/5277/873/Steam_Rails-1.6.3%2Bforge-mc1.20.1.jar 
