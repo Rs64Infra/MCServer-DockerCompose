@@ -96,3 +96,12 @@ https://mediafilez.forgecdn.net/files/5101/366/jei-1.20.1-forge-15.3.0.4.jar
 https://mediafilez.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar
 # Nature's Compass
 https://mediafilez.forgecdn.net/files/4712/189/NaturesCompass-1.20.1-1.11.2-forge.jar
+# YUNG'sシリーズ
+https://mediafilez.forgecdn.net/files/5147/1/YungsApi-1.20-Forge-4.0.4.jar
+https://mediafilez.forgecdn.net/files/4769/439/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar
+https://mediafilez.forgecdn.net/files/5271/360/YungsBetterDungeons-1.20-Forge-4.0.4.jar
+https://mediafilez.forgecdn.net/files/5193/815/YungsBetterEndIsland-1.20-Forge-2.0.6.jar
+https://mediafilez.forgecdn.net/files/4774/782/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar
+https://mediafilez.forgecdn.net/files/5193/465/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar
+https://mediafilez.forgecdn.net/files/4883/3/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar
+https://mediafilez.forgecdn.net/files/4769/489/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar
