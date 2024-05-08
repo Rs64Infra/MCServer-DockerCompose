@@ -105,3 +105,5 @@ https://mediafilez.forgecdn.net/files/4774/782/YungsBetterJungleTemples-1.20-For
 https://mediafilez.forgecdn.net/files/5193/465/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar
 https://mediafilez.forgecdn.net/files/4883/3/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar
 https://mediafilez.forgecdn.net/files/4769/489/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar
+# Difficult Caves
+https://mediafilez.forgecdn.net/files/4706/474/Difficult%20Caves%201.0.0%20-%201.20.1.jar
