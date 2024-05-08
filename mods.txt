@@ -62,3 +62,9 @@ https://mediafilez.forgecdn.net/files/4618/183/mcw-lights-1.0.6-mc1.20.1forge.ja
 https://mediafilez.forgecdn.net/files/5078/226/mcw-roofs-2.3.0-mc1.20.1forge.jar
 https://mediafilez.forgecdn.net/files/4841/553/mcw-trapdoors-1.1.2-mc1.20.1forge.jar
 https://mediafilez.forgecdn.net/files/4961/142/mcw-windows-2.2.1-mc1.20.1forge.jar
+# Ars Nouveau
+https://mediafilez.forgecdn.net/files/5190/105/ars_nouveau-1.20.1-4.10.0-all.jar
+# アドオン
+https://mediafilez.forgecdn.net/files/5255/908/ars_elemental-1.20.1-0.6.5.jar
+# Create連携アドオン
+https://mediafilez.forgecdn.net/files/5171/755/ars_creo-1.20.1-4.1.0.jar
