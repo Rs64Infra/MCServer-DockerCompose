@@ -82,3 +82,5 @@ https://mediafilez.forgecdn.net/files/5318/429/moonlight-1.20-2.11.17-forge.jar
 https://mediafilez.forgecdn.net/files/5302/178/aether-1.20.1-1.4.2-neoforge.jar
 # 黄昏の森
 https://mediafilez.forgecdn.net/files/5071/19/twilightforest-1.20.1-4.3.2145-universal.jar
+# レシピ重複対策？mod
+https://mediafilez.forgecdn.net/files/5222/33/polymorph-forge-0.49.3%2B1.20.1.jar
