@@ -114,3 +114,11 @@ https://mediafilez.forgecdn.net/files/5243/887/EasyEmerald-Forge-1.20.1-1.5.8.ja
 # Simply Sword
 https://mediafilez.forgecdn.net/files/5255/968/simplyswords-forge-1.55.0-1.20.1.jar
 https://mediafilez.forgecdn.net/files/4973/441/cloth-config-11.1.118-forge.jar
+# Config系
+https://mediafilez.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar
+https://mediafilez.forgecdn.net/files/5284/15/Searchables-forge-1.20.1-1.0.3.jar
+https://mediafilez.forgecdn.net/files/5180/900/configured-forge-1.20.1-2.2.3.jar
+# 墓mod
+https://mediafilez.forgecdn.net/files/5197/326/gravestone-forge-1.20.1-1.0.15.jar
+# Embers Rekindled
+https://mediafilez.forgecdn.net/files/5315/565/embersrekindled-1.20.1-1.2.3.jar
