@@ -1,3 +1,11 @@
 # ModList ここにダウンロードできるリンクを列挙
-
+https://mediafilez.forgecdn.net/files/5320/968/letsdo-API-forge-1.2.11-forge.jar
+https://mediafilez.forgecdn.net/files/5320/661/letsdo-bakery-forge-1.1.9.jar
+https://mediafilez.forgecdn.net/files/5320/668/letsdo-beachparty-forge-1.1.5.jar
+https://mediafilez.forgecdn.net/files/5320/650/letsdo-brewery-forge-1.1.8.jar
+https://mediafilez.forgecdn.net/files/5322/893/letsdo-candlelight-forge-1.2.12.1.jar
+https://mediafilez.forgecdn.net/files/5320/675/letsdo-herbalbrews-forge-1.0.7.jar
+https://mediafilez.forgecdn.net/files/5324/198/letsdo-meadow-forge-1.3.12.jar
+https://mediafilez.forgecdn.net/files/5322/914/letsdo-nethervinery-forge-1.2.12.jar
+https://mediafilez.forgecdn.net/files/5323/910/letsdo-vinery-forge-1.4.19.jar
 # Test Text
