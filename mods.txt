@@ -94,3 +94,5 @@ https://mediafilez.forgecdn.net/files/4888/575/solcarrot-1.20.1-1.15.1.jar
 # Just Enough Items
 https://mediafilez.forgecdn.net/files/5101/366/jei-1.20.1-forge-15.3.0.4.jar
 https://mediafilez.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar
+# Nature's Compass
+https://mediafilez.forgecdn.net/files/4712/189/NaturesCompass-1.20.1-1.11.2-forge.jar
