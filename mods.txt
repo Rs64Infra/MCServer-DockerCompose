@@ -71,3 +71,6 @@ https://mediafilez.forgecdn.net/files/5171/755/ars_creo-1.20.1-4.1.0.jar
 # Quarkとその前提
 https://mediafilez.forgecdn.net/files/5264/412/Quark-4.0-441.jar
 https://mediafilez.forgecdn.net/files/5254/672/Zeta-1.0-16.jar
+# Sophisticated Backpackとその前提
+https://mediafilez.forgecdn.net/files/5296/475/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar
+https://mediafilez.forgecdn.net/files/5296/318/sophisticatedcore-1.20.1-0.6.21.609.jar
