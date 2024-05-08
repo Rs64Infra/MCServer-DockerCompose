@@ -68,3 +68,6 @@ https://mediafilez.forgecdn.net/files/5190/105/ars_nouveau-1.20.1-4.10.0-all.jar
 https://mediafilez.forgecdn.net/files/5255/908/ars_elemental-1.20.1-0.6.5.jar
 # Create連携アドオン
 https://mediafilez.forgecdn.net/files/5171/755/ars_creo-1.20.1-4.1.0.jar
+# Quarkとその前提
+https://mediafilez.forgecdn.net/files/5264/412/Quark-4.0-441.jar
+https://mediafilez.forgecdn.net/files/5254/672/Zeta-1.0-16.jar
