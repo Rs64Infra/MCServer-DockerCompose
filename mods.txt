@@ -35,6 +35,6 @@ https://mediafilez.forgecdn.net/files/4860/141/bellsandwhistles-0.4.3-1.20.x.jar
 https://mediafilez.forgecdn.net/files/5223/588/Copycats-forge.1.20.1-1.2.6.jar
 https://mediafilez.forgecdn.net/files/5291/634/design_decor-0.4-1.20.1.jar
 https://mediafilez.forgecdn.net/files/5253/14/interiors-0.5.3%2Bforge-mc1.20.1.jar
-https://mediafilez.forgecdn.net/files/5277/873/Steam_Rails-1.6.3%2Bforge-mc1.20.1.jar 
+https://mediafilez.forgecdn.net/files/5277/873/Steam_Rails-1.6.3%2Bforge-mc1.20.1.jar
 # kotlinforforge
 https://mediafilez.forgecdn.net/files/4983/659/kotlinforforge-4.10.0-all.jar 
