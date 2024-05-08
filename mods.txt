@@ -53,3 +53,12 @@ https://mediafilez.forgecdn.net/files/5093/785/saturn-mc1.20.1-0.1.3.jar
 https://mediafilez.forgecdn.net/files/4973/562/mining-dimension-forge-1.20.1-1.1.0.jar
 # Farmer's Delight
 https://mediafilez.forgecdn.net/files/5051/242/FarmersDelight-1.20.1-1.2.4.jar
+# macaw's シリーズ
+https://mediafilez.forgecdn.net/files/5240/518/mcw-bridges-3.0.0-mc1.20.1forge.jar
+https://mediafilez.forgecdn.net/files/4649/910/mcw-doors-1.1.0forge-mc1.20.1.jar
+https://mediafilez.forgecdn.net/files/5050/219/mcw-fences-1.1.1-mc1.20.1forge.jar
+https://mediafilez.forgecdn.net/files/5043/321/mcw-furniture-3.2.2-mc1.20.1forge.jar
+https://mediafilez.forgecdn.net/files/4618/183/mcw-lights-1.0.6-mc1.20.1forge.jar
+https://mediafilez.forgecdn.net/files/5078/226/mcw-roofs-2.3.0-mc1.20.1forge.jar
+https://mediafilez.forgecdn.net/files/4841/553/mcw-trapdoors-1.1.2-mc1.20.1forge.jar
+https://mediafilez.forgecdn.net/files/4961/142/mcw-windows-2.2.1-mc1.20.1forge.jar
