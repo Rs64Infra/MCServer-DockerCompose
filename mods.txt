@@ -122,3 +122,5 @@ https://mediafilez.forgecdn.net/files/5180/900/configured-forge-1.20.1-2.2.3.jar
 https://mediafilez.forgecdn.net/files/5197/326/gravestone-forge-1.20.1-1.0.15.jar
 # Embers Rekindled
 https://mediafilez.forgecdn.net/files/5315/565/embersrekindled-1.20.1-1.2.3.jar
+# Leaves Be Gone
+https://mediafilez.forgecdn.net/files/4613/293/LeavesBeGone-v8.0.0-1.20.1-Forge.jar
