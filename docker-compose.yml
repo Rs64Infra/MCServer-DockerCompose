@@ -11,13 +11,13 @@ services:
       MOTD: "This MCServer is running on a docker-compose!!"
       TYPE: "FORGE"
       VERSION: 1.20.1
-      FORGE_VERSION: 47.2.20
+      FORGE_VERSION: 47.2.30
       MEMORY: 16G
 
       OVERRIDE_WHITELIST: "TRUE"
       WHITELIST_FILE: /extra/whitelist.json
 
-      MODS_FILE: /extras/mods.txt
+      #MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "TRUE"
 
     volumes:
