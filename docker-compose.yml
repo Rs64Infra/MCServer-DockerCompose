@@ -18,7 +18,7 @@ services:
       WHITELIST_FILE: /extra/whitelist.json
 
       #MODS_FILE: /extras/mods.txt
-      REMOVE_OLD_MODS: "TRUE"
+      #REMOVE_OLD_MODS: "TRUE"
 
     volumes:
       - ./mcdata:/data
