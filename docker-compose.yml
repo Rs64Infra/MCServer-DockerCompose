@@ -11,7 +11,7 @@ services:
       MOTD: "This MCServer is running on a docker-compose!!"
       TYPE: "FORGE"
       VERSION: 1.20.1
-      FORGE_VERSION: 47.2.30
+      FORGE_VERSION: 47.2.0
       MEMORY: 16G
 
       OVERRIDE_WHITELIST: "TRUE"
