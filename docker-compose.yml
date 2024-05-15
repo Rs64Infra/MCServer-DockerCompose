@@ -9,9 +9,9 @@ services:
     environment:
       EULA: "TRUE"
       MOTD: "This MCServer is running on a docker-compose!!"
-      TYPE: "VANILLA"
+      TYPE: "FORGE"
       VERSION: 1.19.4
-      #FORGE_VERSION: 12.18.3.2511
+      FORGE_VERSION: 45.2.0
       MEMORY: 16G
 
       OVERRIDE_WHITELIST: "TRUE"
