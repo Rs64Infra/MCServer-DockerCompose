@@ -14,7 +14,7 @@ services:
       FORGE_VERSION: 47.3.0
       MEMORY: 16G
 
-      OVERRIDE_WHITELIST: "TRUE"
+      OVERRIDE_WHITELIST: "FALSE"
       WHITELIST_FILE: /extra/whitelist.json
 
       #MODS_FILE: /extras/mods.txt
