@@ -21,7 +21,7 @@ services:
       #REMOVE_OLD_MODS: "TRUE"
 
     volumes:
-      - ./mcdata:/data
+      - ./mcdata2:/data
       - ./whitelist.json:/extra/whitelist.json:ro
       - ./mods.txt:/extras/mods.txt:ro
     tty: true
