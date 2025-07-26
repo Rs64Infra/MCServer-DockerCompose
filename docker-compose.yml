@@ -11,7 +11,7 @@ services:
       MOTD: "sakamoto"
       TYPE: "FORGE"
       VERSION: 1.20.1
-      FORGE_VERSION: 47.3.33
+      FORGE_VERSION: 47.4.0
       MEMORY: 16G
 
       OVERRIDE_WHITELIST: "FALSE"
